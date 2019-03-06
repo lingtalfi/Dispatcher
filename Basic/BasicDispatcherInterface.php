@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Dispatcher\Basic;
+namespace Ling\Dispatcher\Basic;
 
 
 interface BasicDispatcherInterface

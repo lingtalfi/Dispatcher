@@ -14,7 +14,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import Dispatcher
+uni import Ling/Dispatcher
 ```
 
 Or just download it and place it where you want otherwise.
@@ -36,7 +36,7 @@ The basic dispatcher example:
 
 
 use Core\Services\A;
-use Dispatcher\Basic\BasicDispatcher;
+use Ling\Dispatcher\Basic\BasicDispatcher;
 
 // using kamille framework here (https://github.com/lingtalfi/kamille)
 require_once __DIR__ . "/../boot.php";
